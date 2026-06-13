@@ -1,21 +1,21 @@
 supplier_id,supplier_name,supplier_location,average_delivery_days,supplier_rating
-S001,"Santiago, Cherry and Brown",West Autumn,7,4.7
-S002,Oconnell-Morris,Mariahburgh,9,4.1
-S003,Joseph and Sons,Patricialand,11,3.7
-S004,"Parker, Sexton and Williams",Kyleborough,12,3.2
-S005,Braun PLC,Sandersview,8,4.4
-S006,Jordan-Davis,Millerborough,12,3.4
-S007,Martin-Miller,West Joshua,10,4.4
-S008,Decker-Martin,Fryeside,4,4.8
-S009,Bean-Simmons,Port Rebecca,4,3.1
-S010,"Forbes, Smith and Bass",Gayhaven,8,3.5
-S011,Yoder Ltd,Lake Anthony,12,3.8
-S012,Walsh Ltd,Danielview,2,4.0
-S013,Robinson LLC,Marialand,6,3.7
-S014,Vega Group,North Chadmouth,11,4.3
-S015,Wu Ltd,Lake Ebony,3,4.8
-S016,Spears and Sons,North Richard,3,4.6
-S017,Allen-Vaughn,Rebeccachester,3,3.2
-S018,Hansen LLC,West Kristinemouth,11,3.7
-S019,"Austin, Smith and Doyle",Michaelport,3,3.1
-S020,"Jones, Pierce and Fisher",Port Tracyborough,7,3.5
+S001,Rogers Group,Nicholasland,5,4.0
+S002,Fields-Martinez,Armstrongview,12,4.8
+S003,Faulkner LLC,Marcusmouth,12,3.4
+S004,"Pena, Cummings and Choi",East Shane,4,3.5
+S005,Charles-Kennedy,Wadeborough,4,4.4
+S006,Smith-Taylor,New Ryan,3,4.8
+S007,Collins PLC,West Erika,4,4.1
+S008,"Thomas, Garcia and Owen",Lake Cheyenne,7,4.1
+S009,Smith-Smith,Jacquelineview,11,4.0
+S010,Long LLC,Aprilshire,7,4.3
+S011,Jones Ltd,Jonesberg,11,3.3
+S012,"Lambert, Evans and Vasquez",South Jamie,5,4.1
+S013,Mckay LLC,East Derekport,7,3.8
+S014,Herring-Nguyen,Mollyville,6,4.2
+S015,"Williams, Strong and Barnes",New Michaelhaven,2,4.6
+S016,"Lopez, Rogers and Anderson",East Amanda,9,4.7
+S017,Gonzalez-Garza,South Randy,7,3.6
+S018,Mills-Lopez,Johnathanstad,7,4.4
+S019,Vasquez-Burton,Wellsmouth,7,3.7
+S020,"Myers, Farmer and Grant",Marquezborough,11,4.9

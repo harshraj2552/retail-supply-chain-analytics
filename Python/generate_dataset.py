@@ -58,3 +58,50 @@ print(products_df.shape)
 products_df.to_csv("data/raw/products.csv", index=False)
 
 print("Products dataset saved successfully!")
+# Create warehouses data
+warehouses = [
+    {
+        "warehouse_id": "W001",
+        "warehouse_name": "North Distribution Center",
+        "city": "Delhi",
+        "state": "Delhi",
+        "capacity": 50000
+    },
+    {
+        "warehouse_id": "W002",
+        "warehouse_name": "West Fulfillment Hub",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "capacity": 65000
+    },
+    {
+        "warehouse_id": "W003",
+        "warehouse_name": "South Storage Unit",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "capacity": 55000
+    },
+    {
+        "warehouse_id": "W004",
+        "warehouse_name": "East Logistics Center",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "capacity": 45000
+    },
+    {
+        "warehouse_id": "W005",
+        "warehouse_name": "Central Supply Hub",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "capacity": 40000
+    }
+]
+
+warehouses_df = pd.DataFrame(warehouses)
+
+print(warehouses_df)
+print(warehouses_df.shape)
+
+warehouses_df.to_csv("data/raw/warehouses.csv", index=False)
+
+print("Warehouses dataset saved successfully!")

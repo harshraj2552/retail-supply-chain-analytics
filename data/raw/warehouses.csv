@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,capacity
+W001,North Distribution Center,Delhi,Delhi,50000
+W002,West Fulfillment Hub,Mumbai,Maharashtra,65000
+W003,South Storage Unit,Bengaluru,Karnataka,55000
+W004,East Logistics Center,Kolkata,West Bengal,45000
+W005,Central Supply Hub,Nagpur,Maharashtra,40000

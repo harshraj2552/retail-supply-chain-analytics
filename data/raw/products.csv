@@ -1,501 +1,501 @@
 product_id,product_name,category,cost_price,selling_price,supplier_id
-P0001,Sell Chair,Furniture,4714,8469.95,S019
-P0002,Age Paper,Office Supplies,3820,4945.19,S001
-P0003,Mean Kettle,Home Appliances,3647,5763.34,S015
-P0004,Sure Paper,Office Supplies,1369,2042.57,S004
-P0005,Course Keyboard,Electronics,3873,4870.27,S006
-P0006,Activity Folder,Office Supplies,4256,7233.05,S007
-P0007,South Iron,Home Appliances,1430,1850.75,S007
-P0008,Technology Desk,Furniture,1332,2198.71,S009
-P0009,Try Table,Furniture,2412,3222.24,S012
-P0010,Represent Headphones,Electronics,2118,3003.78,S020
-P0011,Develop Notebook,Office Supplies,2302,3297.53,S009
-P0012,Start Folder,Office Supplies,3583,4317.13,S008
-P0013,Friend Pen,Office Supplies,269,437.05,S012
-P0014,Fight Fan,Home Appliances,4036,5680.07,S016
-P0015,Source Mouse,Electronics,1340,1845.67,S002
-P0016,Others Cabinet,Furniture,1996,2669.47,S020
-P0017,Stand Keyboard,Electronics,2377,4226.75,S010
-P0018,Lose Headphones,Electronics,1991,2543.48,S004
-P0019,Drop Cabinet,Furniture,737,1212.47,S019
-P0020,Adult Keyboard,Electronics,707,1163.13,S015
-P0021,Student Kettle,Home Appliances,4357,7301.23,S005
-P0022,Person Kettle,Home Appliances,1825,2347.74,S020
-P0023,Remain Desk,Furniture,2895,4590.83,S003
-P0024,Parent Desk,Furniture,4278,5665.5,S016
-P0025,Particular Pen,Office Supplies,1992,3324.91,S013
-P0026,Collection Kettle,Home Appliances,1130,1501.56,S005
-P0027,Argue Kettle,Home Appliances,2909,3616.38,S013
-P0028,Manage Table,Furniture,3728,5321.8,S007
-P0029,Trouble Mixer,Home Appliances,624,758.24,S015
-P0030,Hundred Desk,Furniture,2967,4481.7,S001
-P0031,Although Notebook,Office Supplies,1836,3269.31,S010
-P0032,Every Fan,Home Appliances,1647,2642.36,S020
-P0033,Make Toaster,Home Appliances,3879,6243.74,S012
-P0034,Toward Stapler,Office Supplies,4554,6645.47,S005
-P0035,Church Paper,Office Supplies,4347,5680.74,S003
-P0036,Discover Folder,Office Supplies,2135,3711.06,S001
-P0037,Adult Table,Furniture,1396,1901.44,S016
-P0038,Western Bookshelf,Furniture,4564,6682.57,S013
-P0039,Trial Mouse,Electronics,973,1488.73,S008
-P0040,Everyone Pen,Office Supplies,3626,5861.78,S010
-P0041,Person Notebook,Office Supplies,727,977.97,S003
-P0042,Federal Mixer,Home Appliances,1421,2218.95,S011
-P0043,Win Laptop,Electronics,222,299.67,S014
-P0044,Toward Notebook,Office Supplies,4863,6921.23,S005
-P0045,Class Kettle,Home Appliances,3521,5901.72,S013
-P0046,Probably Chair,Furniture,756,1214.85,S008
-P0047,Read Laptop,Electronics,1029,1492.47,S008
-P0048,Fact Cabinet,Furniture,2855,4871.49,S010
-P0049,He Pen,Office Supplies,2479,3930.65,S012
-P0050,Significant Cabinet,Furniture,2788,3433.29,S016
-P0051,Serve Keyboard,Electronics,1227,1726.82,S003
-P0052,Sit Folder,Office Supplies,4182,7013.08,S013
-P0053,Themselves Desk,Furniture,2778,4026.15,S013
-P0054,Collection Iron,Home Appliances,765,1319.61,S008
-P0055,Use Folder,Office Supplies,4607,8124.23,S012
-P0056,Arrive Desk,Furniture,4863,6866.75,S004
-P0057,Guy Toaster,Home Appliances,3890,6842.23,S020
-P0058,Trade Toaster,Home Appliances,1465,2242.46,S008
-P0059,Environment Table,Furniture,3564,4305.28,S007
-P0060,Two Cabinet,Furniture,1715,2942.64,S016
-P0061,Tonight Paper,Office Supplies,862,1038.02,S010
-P0062,Whatever Headphones,Electronics,3992,6653.44,S014
-P0063,Build Monitor,Electronics,3788,5191.48,S008
-P0064,Chance Toaster,Home Appliances,2631,3777.04,S015
-P0065,Popular Headphones,Electronics,4944,8891.93,S008
-P0066,Detail Headphones,Electronics,4374,5810.57,S006
-P0067,Much Cabinet,Furniture,4038,6018.47,S019
-P0068,Owner Headphones,Electronics,3075,4077.64,S006
-P0069,Religious Kettle,Home Appliances,3642,5769.44,S017
-P0070,Marriage Toaster,Home Appliances,415,693.5,S007
-P0071,Say Folder,Office Supplies,552,891.24,S012
-P0072,Experience Folder,Office Supplies,3697,5142.58,S003
-P0073,Mr Bookshelf,Furniture,1471,1899.78,S015
-P0074,Get Folder,Office Supplies,1392,1794.84,S001
-P0075,Teach Headphones,Electronics,1684,2220.09,S017
-P0076,Set Mixer,Home Appliances,2596,4221.68,S018
-P0077,Everyone Fan,Home Appliances,2621,3887.71,S019
-P0078,Next Fan,Home Appliances,1225,1806.56,S005
-P0079,Away Stapler,Office Supplies,1250,2011.34,S012
-P0080,Single Notebook,Office Supplies,860,1403.62,S019
-P0081,Until Iron,Home Appliances,2382,4081.54,S020
-P0082,Media Folder,Office Supplies,3096,4413.26,S015
-P0083,Almost Mixer,Home Appliances,2360,3315.1,S018
-P0084,Ten Stapler,Office Supplies,354,520.79,S004
-P0085,War Mouse,Electronics,971,1596.96,S010
-P0086,Ok Bookshelf,Furniture,1623,2677.85,S013
-P0087,Hold Desk,Furniture,392,501.68,S001
-P0088,From Headphones,Electronics,1704,2853.06,S019
-P0089,Control Folder,Office Supplies,4942,5930.96,S010
-P0090,Call Pen,Office Supplies,3994,6158.66,S006
-P0091,To Laptop,Electronics,3121,3953.08,S013
-P0092,Democrat Paper,Office Supplies,3873,6381.22,S012
-P0093,Again Paper,Office Supplies,2314,3056.53,S017
-P0094,Member Folder,Office Supplies,4213,6476.41,S005
-P0095,Common Kettle,Home Appliances,1152,1449.8,S005
-P0096,Low Paper,Office Supplies,3125,5338.63,S009
-P0097,For Headphones,Electronics,3443,5590.59,S013
-P0098,Phone Iron,Home Appliances,3926,6376.83,S012
-P0099,Data Stapler,Office Supplies,1264,1522.79,S019
-P0100,Strategy Headphones,Electronics,2705,3294.65,S002
-P0101,Store Paper,Office Supplies,4444,7837.48,S006
-P0102,Through Folder,Office Supplies,2963,5117.23,S019
-P0103,The Table,Furniture,1325,2106.88,S006
-P0104,Evening Laptop,Electronics,683,1138.71,S012
-P0105,Hand Folder,Office Supplies,2890,4278.1,S008
-P0106,Half Iron,Home Appliances,4488,8000.53,S002
-P0107,Mrs Table,Furniture,2646,4251.0,S013
-P0108,Especially Headphones,Electronics,1593,2288.37,S007
-P0109,Break Iron,Home Appliances,4332,7412.13,S004
-P0110,One Mixer,Home Appliances,4548,6238.91,S006
-P0111,Respond Chair,Furniture,3229,5622.89,S016
-P0112,Learn Mixer,Home Appliances,4151,5173.62,S006
-P0113,Society Fan,Home Appliances,885,1275.06,S012
-P0114,Important Desk,Furniture,4757,5715.11,S013
-P0115,Himself Headphones,Electronics,1145,1871.39,S012
-P0116,Young Desk,Furniture,3457,4375.07,S018
-P0117,Call Chair,Furniture,3613,6215.06,S014
-P0118,Travel Bookshelf,Furniture,277,436.09,S007
-P0119,Effect Keyboard,Electronics,3256,5112.34,S019
-P0120,Plant Iron,Home Appliances,1540,2736.04,S011
-P0121,Word Fan,Home Appliances,1790,3183.71,S013
-P0122,Until Monitor,Electronics,2508,3385.69,S013
-P0123,Dog Headphones,Electronics,2513,3618.47,S002
-P0124,Its Mixer,Home Appliances,3521,6032.72,S009
-P0125,View Pen,Office Supplies,3087,4113.11,S003
-P0126,Air Table,Furniture,4821,8211.86,S015
-P0127,Begin Notebook,Office Supplies,4670,8016.04,S012
-P0128,Minute Mouse,Electronics,463,795.41,S002
-P0129,Recently Folder,Office Supplies,543,837.4,S005
-P0130,Base Kettle,Home Appliances,2424,3766.02,S011
-P0131,Stop Headphones,Electronics,947,1480.5,S016
-P0132,Red Stapler,Office Supplies,4764,6056.38,S007
-P0133,Store Keyboard,Electronics,4659,5840.81,S016
-P0134,System Monitor,Electronics,4302,6051.78,S020
-P0135,Science Notebook,Office Supplies,514,743.55,S011
-P0136,Right Folder,Office Supplies,4054,7175.45,S013
-P0137,Power Notebook,Office Supplies,1216,2071.72,S016
-P0138,Office Cabinet,Furniture,1809,3100.67,S004
-P0139,Anyone Cabinet,Furniture,2070,3164.27,S013
-P0140,Who Cabinet,Furniture,3022,5354.77,S017
-P0141,Newspaper Keyboard,Electronics,1901,3087.6,S015
-P0142,Federal Chair,Furniture,4617,7778.2,S019
-P0143,Stock Mixer,Home Appliances,2844,3820.32,S002
-P0144,Door Notebook,Office Supplies,3767,6540.58,S015
-P0145,Staff Notebook,Office Supplies,4552,7770.72,S006
-P0146,Prove Headphones,Electronics,3811,6056.45,S012
-P0147,Agreement Toaster,Home Appliances,2595,3281.55,S007
-P0148,Brother Keyboard,Electronics,2136,2748.06,S009
-P0149,Only Fan,Home Appliances,1759,2438.69,S010
-P0150,Nor Chair,Furniture,1533,1877.2,S009
-P0151,Side Stapler,Office Supplies,1163,1487.81,S002
-P0152,Again Keyboard,Electronics,3868,6133.52,S019
-P0153,May Keyboard,Electronics,2395,3793.37,S006
-P0154,Its Keyboard,Electronics,2489,3312.38,S003
-P0155,Mrs Chair,Furniture,1492,2585.8,S002
-P0156,Hour Chair,Furniture,1222,1839.26,S005
-P0157,Item Mouse,Electronics,1617,2482.64,S015
-P0158,Serve Paper,Office Supplies,1443,2243.0,S018
-P0159,Field Cabinet,Furniture,1162,1629.92,S019
-P0160,Food Mouse,Electronics,3697,5646.92,S008
-P0161,Situation Fan,Home Appliances,1179,2044.09,S010
-P0162,School Fan,Home Appliances,1983,3382.91,S005
-P0163,Responsibility Table,Furniture,2977,5114.17,S005
-P0164,Hard Paper,Office Supplies,988,1750.2,S015
-P0165,By Table,Furniture,4564,7004.75,S008
-P0166,Country Laptop,Electronics,695,1185.61,S005
-P0167,Might Paper,Office Supplies,4302,7732.74,S013
-P0168,Would Folder,Office Supplies,4249,7607.91,S012
-P0169,College Mixer,Home Appliances,1880,2859.22,S006
-P0170,Table Folder,Office Supplies,278,356.96,S010
-P0171,Goal Headphones,Electronics,1874,2274.89,S007
-P0172,Human Keyboard,Electronics,4080,7142.65,S003
-P0173,Improve Bookshelf,Furniture,432,726.15,S003
-P0174,Against Pen,Office Supplies,2965,5258.1,S004
-P0175,Item Toaster,Home Appliances,876,1322.38,S018
-P0176,History Paper,Office Supplies,3033,5093.06,S011
-P0177,Three Desk,Furniture,3315,4632.47,S015
-P0178,State Chair,Furniture,3673,5652.94,S013
-P0179,Road Keyboard,Electronics,737,1133.39,S019
-P0180,Move Table,Furniture,888,1463.27,S015
-P0181,Candidate Paper,Office Supplies,4886,6060.87,S004
-P0182,White Monitor,Electronics,3972,6550.24,S008
-P0183,Young Desk,Furniture,4532,6857.07,S018
-P0184,Station Iron,Home Appliances,1292,1891.9,S004
-P0185,Able Desk,Furniture,908,1514.09,S017
-P0186,However Pen,Office Supplies,4254,5757.17,S007
-P0187,Coach Folder,Office Supplies,2418,3757.69,S002
-P0188,Note Laptop,Electronics,3654,5042.05,S008
-P0189,Federal Chair,Furniture,3707,5270.43,S009
-P0190,Door Chair,Furniture,2626,4487.3,S014
-P0191,Enough Paper,Office Supplies,1760,2787.35,S014
-P0192,Them Pen,Office Supplies,3960,6593.05,S012
-P0193,Spring Notebook,Office Supplies,2200,2904.54,S002
-P0194,Best Table,Furniture,3609,4336.56,S004
-P0195,Best Kettle,Home Appliances,1221,2061.3,S001
-P0196,Service Laptop,Electronics,2181,3763.89,S009
-P0197,Want Chair,Furniture,3557,4302.1,S007
-P0198,Consider Bookshelf,Furniture,3206,5350.25,S003
-P0199,Car Chair,Furniture,3189,4530.53,S007
-P0200,High Fan,Home Appliances,1928,3248.56,S005
-P0201,Standard Paper,Office Supplies,1420,2276.34,S008
-P0202,Report Desk,Furniture,1180,2093.04,S004
-P0203,Store Chair,Furniture,864,1248.74,S003
-P0204,Leave Folder,Office Supplies,555,990.96,S013
-P0205,Artist Mouse,Electronics,3940,5837.54,S016
-P0206,Cause Bookshelf,Furniture,3779,6021.51,S020
-P0207,Break Pen,Office Supplies,2026,3620.37,S003
-P0208,Operation Monitor,Electronics,4979,7617.64,S020
-P0209,Old Paper,Office Supplies,1620,2246.69,S007
-P0210,Left Folder,Office Supplies,1333,1693.9,S002
-P0211,Story Folder,Office Supplies,1690,2246.98,S010
-P0212,Four Monitor,Electronics,1890,2310.62,S003
-P0213,Race Desk,Furniture,1901,2674.96,S017
-P0214,Four Mouse,Electronics,3505,6292.46,S006
-P0215,Truth Pen,Office Supplies,1675,2384.02,S006
-P0216,Hour Keyboard,Electronics,403,634.31,S009
-P0217,Seat Desk,Furniture,1904,3091.01,S013
-P0218,Organization Bookshelf,Furniture,3058,5147.73,S005
-P0219,Reduce Bookshelf,Furniture,1798,2691.92,S013
-P0220,Note Toaster,Home Appliances,1781,2973.87,S003
-P0221,Perform Mixer,Home Appliances,746,985.19,S017
-P0222,Theory Fan,Home Appliances,2410,4293.06,S013
-P0223,Camera Kettle,Home Appliances,4795,7487.34,S013
-P0224,Person Table,Furniture,3332,5351.95,S003
-P0225,Laugh Mixer,Home Appliances,4422,6465.43,S015
-P0226,After Table,Furniture,3622,4642.52,S007
-P0227,Send Pen,Office Supplies,2413,3880.36,S018
-P0228,Civil Fan,Home Appliances,2111,3030.98,S015
-P0229,Together Cabinet,Furniture,2006,2987.68,S020
-P0230,Me Headphones,Electronics,4660,8105.32,S010
-P0231,Talk Fan,Home Appliances,204,366.91,S012
-P0232,Decade Table,Furniture,1995,3438.93,S010
-P0233,Writer Stapler,Office Supplies,888,1257.06,S018
-P0234,Soldier Keyboard,Electronics,4103,6944.2,S018
-P0235,Sport Toaster,Home Appliances,1247,1762.07,S017
-P0236,Know Kettle,Home Appliances,247,424.2,S007
-P0237,Night Paper,Office Supplies,2790,3995.21,S001
-P0238,Hour Chair,Furniture,2461,4018.58,S007
-P0239,Method Folder,Office Supplies,4321,6085.27,S016
-P0240,Sister Bookshelf,Furniture,1001,1204.04,S004
-P0241,Away Monitor,Electronics,1835,3008.51,S019
-P0242,Walk Stapler,Office Supplies,3119,5285.68,S005
-P0243,Important Mouse,Electronics,793,1080.02,S018
-P0244,Production Notebook,Office Supplies,1612,2057.66,S008
-P0245,She Keyboard,Electronics,4288,6903.21,S009
-P0246,Forget Bookshelf,Furniture,4396,5782.84,S015
-P0247,Town Paper,Office Supplies,2182,3646.93,S010
-P0248,Teach Folder,Office Supplies,4305,6958.05,S010
-P0249,Star Notebook,Office Supplies,3201,4345.36,S012
-P0250,Answer Iron,Home Appliances,4943,7781.08,S007
-P0251,Me Toaster,Home Appliances,302,527.49,S003
-P0252,Hand Table,Furniture,384,667.9,S018
-P0253,Father Mouse,Electronics,256,431.76,S004
-P0254,That Iron,Home Appliances,3520,5790.87,S007
-P0255,Successful Cabinet,Furniture,4957,6755.06,S010
-P0256,Leg Chair,Furniture,1912,2905.65,S009
-P0257,Then Table,Furniture,4858,8488.42,S007
-P0258,Us Kettle,Home Appliances,1657,2627.05,S018
-P0259,Court Bookshelf,Furniture,2797,4238.72,S006
-P0260,Likely Iron,Home Appliances,4078,7200.95,S001
-P0261,Tonight Fan,Home Appliances,3133,4017.92,S005
-P0262,Best Iron,Home Appliances,1219,1547.14,S002
-P0263,Thing Stapler,Office Supplies,2146,3758.27,S010
-P0264,Local Laptop,Electronics,1679,2533.63,S007
-P0265,Boy Chair,Furniture,1507,1954.02,S013
-P0266,Visit Mixer,Home Appliances,4455,5695.99,S012
-P0267,Despite Mouse,Electronics,3737,4729.41,S012
-P0268,Reduce Toaster,Home Appliances,3229,5675.53,S015
-P0269,Agent Notebook,Office Supplies,3737,5344.34,S005
-P0270,More Laptop,Electronics,3691,4465.91,S018
-P0271,Drive Monitor,Electronics,1830,3059.05,S011
-P0272,Real Fan,Home Appliances,690,850.12,S006
-P0273,Spring Mixer,Home Appliances,3903,6180.64,S017
-P0274,Note Fan,Home Appliances,3878,5326.73,S017
-P0275,Service Bookshelf,Furniture,1455,2381.61,S018
-P0276,Hotel Fan,Home Appliances,529,794.9,S012
-P0277,Onto Mixer,Home Appliances,505,892.14,S007
-P0278,Teacher Folder,Office Supplies,1664,2053.82,S009
-P0279,Institution Notebook,Office Supplies,4403,7537.4,S012
-P0280,Accept Mixer,Home Appliances,2612,4645.62,S004
-P0281,Environment Iron,Home Appliances,3702,5870.25,S014
-P0282,Guess Paper,Office Supplies,1749,2595.82,S008
-P0283,Many Cabinet,Furniture,254,398.1,S004
-P0284,Rather Bookshelf,Furniture,1304,2183.86,S008
-P0285,Use Pen,Office Supplies,1576,2415.33,S013
-P0286,Debate Iron,Home Appliances,3939,5205.04,S015
-P0287,This Headphones,Electronics,4110,5679.95,S005
-P0288,School Pen,Office Supplies,4687,6332.77,S019
-P0289,Newspaper Toaster,Home Appliances,1437,2401.19,S004
-P0290,Event Pen,Office Supplies,3267,4201.27,S019
-P0291,Weight Mixer,Home Appliances,3466,6117.55,S006
-P0292,Unit Headphones,Electronics,785,1354.82,S008
-P0293,Maybe Table,Furniture,2341,3385.97,S007
-P0294,Rich Notebook,Office Supplies,3103,3781.36,S017
-P0295,Prevent Mixer,Home Appliances,2605,4322.48,S016
-P0296,Available Stapler,Office Supplies,260,342.17,S018
-P0297,Factor Table,Furniture,1877,2322.93,S009
-P0298,Window Mixer,Home Appliances,1814,2321.63,S002
-P0299,Arm Bookshelf,Furniture,409,649.38,S013
-P0300,Word Mixer,Home Appliances,1025,1617.27,S002
-P0301,Live Fan,Home Appliances,4880,7327.14,S005
-P0302,Interview Mouse,Electronics,1425,1839.44,S020
-P0303,Sort Fan,Home Appliances,2829,4207.16,S010
-P0304,Which Laptop,Electronics,1393,1712.59,S018
-P0305,Memory Pen,Office Supplies,792,1055.88,S001
-P0306,Future Mixer,Home Appliances,3741,5989.04,S006
-P0307,Knowledge Laptop,Electronics,3886,6848.99,S016
-P0308,Fund Mixer,Home Appliances,3699,5905.15,S009
-P0309,Require Mixer,Home Appliances,1231,1661.18,S006
-P0310,Gas Table,Furniture,552,934.48,S009
-P0311,Teach Chair,Furniture,1035,1807.47,S002
-P0312,Money Notebook,Office Supplies,1815,2712.83,S008
-P0313,Subject Table,Furniture,2678,4688.72,S010
-P0314,Despite Notebook,Office Supplies,1475,2505.93,S020
-P0315,Human Fan,Home Appliances,1976,2989.88,S009
-P0316,Certainly Mixer,Home Appliances,760,1119.26,S012
-P0317,Court Pen,Office Supplies,753,1199.94,S001
-P0318,Only Notebook,Office Supplies,4654,7276.31,S014
-P0319,Political Fan,Home Appliances,3887,6272.6,S012
-P0320,Say Headphones,Electronics,637,1084.56,S003
-P0321,Speech Cabinet,Furniture,2015,2423.03,S005
-P0322,Consider Paper,Office Supplies,2815,4369.54,S018
-P0323,Write Toaster,Home Appliances,1261,1546.91,S014
-P0324,Do Monitor,Electronics,1465,1884.69,S010
-P0325,Realize Folder,Office Supplies,2604,3673.13,S004
-P0326,Night Desk,Furniture,2993,4464.81,S008
-P0327,She Mixer,Home Appliances,3954,5850.62,S015
-P0328,Personal Stapler,Office Supplies,272,455.99,S017
-P0329,Will Stapler,Office Supplies,2212,3229.66,S017
-P0330,Different Headphones,Electronics,2759,4459.71,S006
-P0331,Democratic Mouse,Electronics,3864,5937.22,S009
-P0332,Operation Keyboard,Electronics,1320,2070.8,S005
-P0333,Information Fan,Home Appliances,1591,2108.06,S013
-P0334,Series Pen,Office Supplies,546,949.75,S003
-P0335,Hotel Laptop,Electronics,2584,4181.5,S016
-P0336,Action Mixer,Home Appliances,443,615.2,S012
-P0337,Vote Folder,Office Supplies,2726,3315.27,S005
-P0338,Decision Pen,Office Supplies,1055,1322.58,S015
-P0339,School Stapler,Office Supplies,3613,6188.5,S003
-P0340,Firm Keyboard,Electronics,4072,7116.2,S012
-P0341,Color Bookshelf,Furniture,1344,1682.76,S013
-P0342,Trip Paper,Office Supplies,951,1221.17,S015
-P0343,Hot Toaster,Home Appliances,4213,7512.63,S020
-P0344,Cup Kettle,Home Appliances,1413,1903.4,S011
-P0345,Capital Headphones,Electronics,3971,6290.21,S018
-P0346,Media Table,Furniture,2701,3725.55,S002
-P0347,Who Mouse,Electronics,703,945.58,S009
-P0348,Strong Folder,Office Supplies,360,639.53,S020
-P0349,Hospital Laptop,Electronics,5000,8837.26,S017
-P0350,Glass Paper,Office Supplies,1049,1782.38,S004
-P0351,Protect Headphones,Electronics,4917,7142.02,S007
-P0352,Listen Mixer,Home Appliances,1519,2688.82,S009
-P0353,Position Keyboard,Electronics,1533,2330.49,S003
-P0354,Most Bookshelf,Furniture,1524,2721.81,S003
-P0355,Study Keyboard,Electronics,523,888.36,S007
-P0356,Growth Pen,Office Supplies,973,1660.99,S020
-P0357,Same Cabinet,Furniture,3824,5590.15,S002
-P0358,Discover Fan,Home Appliances,4369,7388.78,S020
-P0359,Stand Stapler,Office Supplies,3022,3833.81,S009
-P0360,Sister Monitor,Electronics,3740,4670.91,S015
-P0361,Whose Monitor,Electronics,3200,5364.31,S002
-P0362,Dog Folder,Office Supplies,4134,5150.09,S013
-P0363,Natural Desk,Furniture,1215,1855.06,S010
-P0364,Bag Monitor,Electronics,4343,6377.64,S015
-P0365,Quite Table,Furniture,2561,3503.79,S015
-P0366,Must Bookshelf,Furniture,2119,3143.84,S013
-P0367,Miss Toaster,Home Appliances,1713,3012.63,S008
-P0368,Some Fan,Home Appliances,4939,7324.22,S009
-P0369,Onto Laptop,Electronics,4211,7578.93,S017
-P0370,Develop Iron,Home Appliances,4281,6612.88,S008
-P0371,Very Laptop,Electronics,4446,7565.99,S011
-P0372,Eat Monitor,Electronics,1376,2103.64,S009
-P0373,Church Notebook,Office Supplies,3375,5441.53,S017
-P0374,When Pen,Office Supplies,3994,5918.54,S001
-P0375,Talk Notebook,Office Supplies,926,1141.98,S009
-P0376,Professor Pen,Office Supplies,359,588.75,S001
-P0377,Interview Toaster,Home Appliances,4613,6709.61,S008
-P0378,Question Kettle,Home Appliances,958,1565.23,S019
-P0379,People Mixer,Home Appliances,4108,6879.04,S005
-P0380,Security Paper,Office Supplies,1192,1794.32,S011
-P0381,These Table,Furniture,1030,1525.46,S015
-P0382,Seat Desk,Furniture,3422,5534.63,S007
-P0383,Car Desk,Furniture,557,743.28,S006
-P0384,Than Mixer,Home Appliances,1274,2203.57,S009
-P0385,Play Paper,Office Supplies,1240,1792.35,S013
-P0386,Language Pen,Office Supplies,1398,2086.49,S001
-P0387,Threat Iron,Home Appliances,4949,8129.99,S015
-P0388,Form Chair,Furniture,3884,6234.55,S010
-P0389,Early Paper,Office Supplies,2694,4325.86,S003
-P0390,Turn Bookshelf,Furniture,3224,4352.82,S014
-P0391,Model Monitor,Electronics,4183,5163.95,S016
-P0392,Benefit Pen,Office Supplies,3584,5879.8,S012
-P0393,Thing Notebook,Office Supplies,968,1667.68,S015
-P0394,Not Notebook,Office Supplies,1352,2283.88,S011
-P0395,Of Laptop,Electronics,2418,3665.5,S017
-P0396,Measure Toaster,Home Appliances,700,852.9,S005
-P0397,Pull Stapler,Office Supplies,981,1327.28,S008
-P0398,Perform Table,Furniture,1096,1871.93,S006
-P0399,Show Keyboard,Electronics,405,645.01,S001
-P0400,Soldier Laptop,Electronics,1836,2993.82,S001
-P0401,General Cabinet,Furniture,2690,3269.35,S019
-P0402,Marriage Headphones,Electronics,977,1398.44,S003
-P0403,Plant Keyboard,Electronics,4669,8066.81,S004
-P0404,Apply Headphones,Electronics,3965,5973.15,S019
-P0405,Wonder Paper,Office Supplies,3067,4239.66,S012
-P0406,Theory Table,Furniture,3918,5945.53,S008
-P0407,Call Pen,Office Supplies,3330,4841.0,S006
-P0408,Next Cabinet,Furniture,4254,7254.54,S015
-P0409,Serious Bookshelf,Furniture,3330,5735.37,S009
-P0410,Simply Bookshelf,Furniture,439,547.04,S006
-P0411,His Desk,Furniture,4600,6044.36,S012
-P0412,Purpose Toaster,Home Appliances,1829,3120.57,S005
-P0413,Economy Mixer,Home Appliances,603,741.85,S011
-P0414,Serve Fan,Home Appliances,850,1259.67,S013
-P0415,Recently Cabinet,Furniture,4170,5977.63,S010
-P0416,Partner Bookshelf,Furniture,365,607.85,S017
-P0417,Bar Kettle,Home Appliances,4298,7376.43,S017
-P0418,Article Toaster,Home Appliances,3768,6167.07,S007
-P0419,American Kettle,Home Appliances,3650,5013.73,S012
-P0420,Face Folder,Office Supplies,802,1300.74,S009
-P0421,Us Cabinet,Furniture,3541,5908.65,S001
-P0422,Summer Bookshelf,Furniture,4250,5551.38,S010
-P0423,Doctor Laptop,Electronics,2545,4108.69,S004
-P0424,Describe Paper,Office Supplies,2512,3950.32,S011
-P0425,Artist Iron,Home Appliances,618,956.31,S013
-P0426,Idea Bookshelf,Furniture,4170,5070.67,S018
-P0427,Above Mixer,Home Appliances,2360,4034.66,S008
-P0428,Military Paper,Office Supplies,3583,6040.33,S009
-P0429,Service Table,Furniture,3872,4768.79,S016
-P0430,Attack Pen,Office Supplies,3779,6764.22,S011
-P0431,Against Stapler,Office Supplies,3581,5900.55,S010
-P0432,Strategy Cabinet,Furniture,468,623.62,S009
-P0433,Official Toaster,Home Appliances,4114,6774.61,S010
-P0434,Yet Table,Furniture,4653,6892.29,S007
-P0435,Behavior Kettle,Home Appliances,3473,5752.72,S002
-P0436,Service Folder,Office Supplies,1389,1819.61,S018
-P0437,Body Desk,Furniture,1556,2771.62,S012
-P0438,Good Cabinet,Furniture,351,445.41,S008
-P0439,Carry Fan,Home Appliances,374,485.95,S017
-P0440,You Desk,Furniture,1345,1962.81,S014
-P0441,Live Keyboard,Electronics,361,444.58,S001
-P0442,Recently Iron,Home Appliances,1493,2027.86,S008
-P0443,Also Chair,Furniture,1238,2040.35,S010
-P0444,System Stapler,Office Supplies,3575,4956.46,S014
-P0445,Order Keyboard,Electronics,3990,7147.51,S001
-P0446,Figure Headphones,Electronics,4290,6351.73,S003
-P0447,Professional Mixer,Home Appliances,2220,2746.85,S001
-P0448,Teach Iron,Home Appliances,1093,1321.35,S017
-P0449,Federal Cabinet,Furniture,842,1293.22,S018
-P0450,Once Mouse,Electronics,898,1494.26,S004
-P0451,Democrat Toaster,Home Appliances,1752,2679.44,S002
-P0452,Child Kettle,Home Appliances,1807,2537.06,S004
-P0453,Join Keyboard,Electronics,2623,4704.03,S018
-P0454,Mr Toaster,Home Appliances,342,602.28,S019
-P0455,Significant Folder,Office Supplies,2100,3735.43,S016
-P0456,Evening Fan,Home Appliances,1420,2237.36,S002
-P0457,Record Kettle,Home Appliances,4703,5657.11,S003
-P0458,Entire Cabinet,Furniture,2162,3026.37,S010
-P0459,Appear Chair,Furniture,1098,1472.79,S007
-P0460,Bit Chair,Furniture,3775,5970.59,S019
-P0461,Understand Paper,Office Supplies,3997,6745.23,S008
-P0462,Half Iron,Home Appliances,1629,2554.77,S018
-P0463,Serious Notebook,Office Supplies,960,1167.76,S012
-P0464,Side Mouse,Electronics,2041,3287.19,S014
-P0465,Individual Paper,Office Supplies,4645,7568.71,S016
-P0466,Discover Desk,Furniture,2604,3741.02,S011
-P0467,Past Notebook,Office Supplies,4272,5231.84,S005
-P0468,Wear Desk,Furniture,3265,5711.35,S006
-P0469,Light Chair,Furniture,611,1007.67,S007
-P0470,Treatment Keyboard,Electronics,3102,5210.42,S001
-P0471,Gun Cabinet,Furniture,1089,1907.65,S006
-P0472,Among Laptop,Electronics,4130,5569.0,S014
-P0473,Argue Cabinet,Furniture,2976,5147.84,S014
-P0474,Door Desk,Furniture,3819,6580.33,S001
-P0475,Various Mouse,Electronics,3806,5593.71,S019
-P0476,Form Paper,Office Supplies,1847,2548.09,S012
-P0477,Collection Fan,Home Appliances,2195,2961.75,S008
-P0478,All Folder,Office Supplies,3766,5616.54,S008
-P0479,Television Bookshelf,Furniture,243,387.46,S016
-P0480,Society Notebook,Office Supplies,1733,3018.37,S005
-P0481,Arrive Chair,Furniture,780,1284.77,S013
-P0482,Growth Laptop,Electronics,430,518.21,S018
-P0483,Drop Mixer,Home Appliances,4511,7159.05,S010
-P0484,Prove Toaster,Home Appliances,4611,6417.77,S008
-P0485,Town Desk,Furniture,3689,5033.7,S017
-P0486,Voice Headphones,Electronics,1130,1872.85,S007
-P0487,Doctor Stapler,Office Supplies,271,365.51,S017
-P0488,General Toaster,Home Appliances,4284,6218.67,S004
-P0489,Their Stapler,Office Supplies,2301,4127.71,S004
-P0490,Single Iron,Home Appliances,1641,2782.71,S008
-P0491,Remember Bookshelf,Furniture,1551,2005.73,S008
-P0492,Despite Bookshelf,Furniture,3680,5019.31,S020
-P0493,Media Kettle,Home Appliances,2421,3169.12,S018
-P0494,Issue Notebook,Office Supplies,1586,2829.96,S005
-P0495,Way Folder,Office Supplies,1850,3155.54,S002
-P0496,Religious Keyboard,Electronics,476,682.76,S003
-P0497,Result Toaster,Home Appliances,628,770.25,S006
-P0498,Race Headphones,Electronics,4908,7357.73,S010
-P0499,Region Keyboard,Electronics,222,326.47,S001
-P0500,Mr Bookshelf,Furniture,202,321.81,S004
+P0001,Decade Iron,Home Appliances,3587,5682.96,S001
+P0002,Baby Paper,Office Supplies,4093,5532.55,S011
+P0003,Follow Toaster,Home Appliances,2397,3691.25,S003
+P0004,Card Desk,Furniture,2256,4044.39,S017
+P0005,Second Notebook,Office Supplies,1530,2308.1,S017
+P0006,Thought Table,Furniture,1823,2192.1,S012
+P0007,Fact Pen,Office Supplies,3126,5047.91,S004
+P0008,One Paper,Office Supplies,4712,6525.13,S013
+P0009,Situation Kettle,Home Appliances,3658,4841.1,S004
+P0010,Wide Monitor,Electronics,2142,2681.8,S010
+P0011,Around Keyboard,Electronics,1556,2631.0,S003
+P0012,Him Iron,Home Appliances,387,648.64,S007
+P0013,Like Monitor,Electronics,543,818.72,S014
+P0014,Difference Laptop,Electronics,2009,3084.31,S005
+P0015,Perhaps Notebook,Office Supplies,2060,2523.64,S005
+P0016,Itself Kettle,Home Appliances,1204,1761.3,S010
+P0017,Pm Keyboard,Electronics,1190,2119.66,S004
+P0018,Rate Chair,Furniture,1111,1965.82,S020
+P0019,Either Bookshelf,Furniture,2767,3488.57,S008
+P0020,He Iron,Home Appliances,3608,6285.0,S016
+P0021,Year Stapler,Office Supplies,2264,3021.87,S002
+P0022,Political Monitor,Electronics,439,743.47,S001
+P0023,Make Mouse,Electronics,3633,5980.34,S016
+P0024,Special Pen,Office Supplies,1825,3021.18,S017
+P0025,Star Mouse,Electronics,946,1261.61,S020
+P0026,Shoulder Table,Furniture,1482,2243.07,S006
+P0027,Response Stapler,Office Supplies,2708,3427.76,S002
+P0028,General Table,Furniture,1393,1854.38,S009
+P0029,Before Kettle,Home Appliances,1346,1881.07,S014
+P0030,Stuff Mixer,Home Appliances,4969,6879.02,S002
+P0031,Scientist Fan,Home Appliances,4992,8757.91,S008
+P0032,Method Pen,Office Supplies,556,693.84,S002
+P0033,Until Paper,Office Supplies,2413,3097.27,S017
+P0034,Best Headphones,Electronics,1770,3180.69,S016
+P0035,Once Cabinet,Furniture,4724,6575.6,S009
+P0036,And Cabinet,Furniture,509,877.3,S018
+P0037,Become Mouse,Electronics,2943,4068.72,S012
+P0038,Modern Pen,Office Supplies,2957,5138.58,S009
+P0039,Floor Chair,Furniture,245,429.94,S008
+P0040,Anyone Toaster,Home Appliances,693,1146.2,S006
+P0041,Just Table,Furniture,4239,5810.33,S004
+P0042,Lose Mouse,Electronics,3038,3845.12,S004
+P0043,White Iron,Home Appliances,1931,2591.78,S014
+P0044,Should Mixer,Home Appliances,2102,3170.87,S016
+P0045,Full Chair,Furniture,2003,2877.62,S005
+P0046,May Iron,Home Appliances,4762,6490.26,S014
+P0047,Case Kettle,Home Appliances,293,432.73,S017
+P0048,Employee Laptop,Electronics,722,1070.14,S011
+P0049,Kitchen Kettle,Home Appliances,1407,2374.37,S010
+P0050,Away Iron,Home Appliances,527,696.29,S015
+P0051,Former Monitor,Electronics,1899,2787.19,S001
+P0052,Child Folder,Office Supplies,4907,6248.34,S016
+P0053,Single Desk,Furniture,4917,7152.0,S014
+P0054,Traditional Mouse,Electronics,2888,4525.45,S005
+P0055,Require Headphones,Electronics,924,1612.28,S017
+P0056,Message Stapler,Office Supplies,3716,5414.13,S019
+P0057,Product Paper,Office Supplies,2045,3513.52,S004
+P0058,Term Fan,Home Appliances,4959,6871.57,S011
+P0059,Member Paper,Office Supplies,3371,5303.59,S009
+P0060,Firm Fan,Home Appliances,503,693.43,S005
+P0061,Actually Iron,Home Appliances,3297,4595.69,S015
+P0062,Rule Stapler,Office Supplies,2317,3605.09,S005
+P0063,Military Laptop,Electronics,4478,5668.64,S019
+P0064,Up Kettle,Home Appliances,1611,2622.5,S011
+P0065,Member Desk,Furniture,3855,6387.14,S003
+P0066,Concern Chair,Furniture,2783,4551.96,S011
+P0067,Husband Iron,Home Appliances,3200,5452.3,S002
+P0068,Gas Bookshelf,Furniture,3887,6468.34,S015
+P0069,Live Mixer,Home Appliances,4973,7130.1,S008
+P0070,Nation Pen,Office Supplies,559,676.84,S014
+P0071,Week Mixer,Home Appliances,3903,4714.3,S001
+P0072,Environmental Laptop,Electronics,2962,4957.21,S001
+P0073,Buy Table,Furniture,1041,1679.32,S016
+P0074,Reason Desk,Furniture,287,511.63,S005
+P0075,Score Iron,Home Appliances,268,463.11,S017
+P0076,Off Laptop,Electronics,4803,6465.76,S011
+P0077,Stand Folder,Office Supplies,233,363.68,S018
+P0078,Step Table,Furniture,4554,6576.81,S008
+P0079,Increase Toaster,Home Appliances,3391,4887.05,S002
+P0080,Yet Cabinet,Furniture,725,1143.46,S017
+P0081,Either Monitor,Electronics,1301,1720.74,S009
+P0082,Physical Iron,Home Appliances,4685,7127.61,S007
+P0083,Window Bookshelf,Furniture,4306,6020.1,S016
+P0084,Put Iron,Home Appliances,4383,5777.48,S018
+P0085,Source Stapler,Office Supplies,3901,5509.89,S002
+P0086,On Fan,Home Appliances,2015,2568.58,S009
+P0087,Source Table,Furniture,4976,6307.56,S003
+P0088,Network Toaster,Home Appliances,603,728.34,S008
+P0089,Animal Headphones,Electronics,2726,4854.49,S014
+P0090,Offer Iron,Home Appliances,3794,6396.51,S015
+P0091,Up Chair,Furniture,1395,2131.71,S019
+P0092,Politics Toaster,Home Appliances,3855,5720.11,S020
+P0093,Although Notebook,Office Supplies,3878,5572.08,S018
+P0094,Feel Mixer,Home Appliances,992,1743.83,S014
+P0095,Feeling Kettle,Home Appliances,1292,1805.11,S009
+P0096,Man Kettle,Home Appliances,230,400.79,S017
+P0097,Loss Mouse,Electronics,3675,6499.29,S008
+P0098,Good Kettle,Home Appliances,1143,2007.57,S015
+P0099,Week Pen,Office Supplies,268,346.01,S011
+P0100,Wear Headphones,Electronics,3849,4972.89,S004
+P0101,Bit Notebook,Office Supplies,2866,4948.16,S007
+P0102,Relate Mouse,Electronics,3721,5223.65,S001
+P0103,Provide Notebook,Office Supplies,2443,3065.28,S017
+P0104,Long Toaster,Home Appliances,4453,6455.65,S010
+P0105,State Mixer,Home Appliances,3427,5303.62,S010
+P0106,These Monitor,Electronics,1223,1516.97,S003
+P0107,Food Kettle,Home Appliances,2527,3849.27,S017
+P0108,Expert Laptop,Electronics,987,1209.61,S006
+P0109,Son Desk,Furniture,4413,5383.69,S007
+P0110,Them Cabinet,Furniture,4909,7323.64,S003
+P0111,Management Stapler,Office Supplies,2954,4629.49,S005
+P0112,Crime Headphones,Electronics,486,633.78,S020
+P0113,Describe Headphones,Electronics,535,945.21,S013
+P0114,Degree Cabinet,Furniture,2306,3058.64,S010
+P0115,Admit Mouse,Electronics,808,1246.53,S001
+P0116,Hot Chair,Furniture,822,1469.59,S008
+P0117,Address Bookshelf,Furniture,4988,7620.47,S019
+P0118,Section Cabinet,Furniture,688,1067.73,S019
+P0119,Cell Toaster,Home Appliances,2062,2662.68,S002
+P0120,Step Mouse,Electronics,1135,2041.48,S017
+P0121,Throw Notebook,Office Supplies,4518,7928.98,S010
+P0122,Beyond Table,Furniture,2261,2829.3,S011
+P0123,Policy Notebook,Office Supplies,1228,1571.65,S016
+P0124,Expect Keyboard,Electronics,3491,4601.03,S018
+P0125,Mouth Iron,Home Appliances,3494,5207.08,S019
+P0126,Ever Iron,Home Appliances,3639,6271.15,S015
+P0127,See Stapler,Office Supplies,397,534.43,S020
+P0128,Short Fan,Home Appliances,649,1009.03,S005
+P0129,Task Stapler,Office Supplies,3841,4685.42,S011
+P0130,Cell Kettle,Home Appliances,3450,5291.37,S013
+P0131,Rise Paper,Office Supplies,386,511.12,S018
+P0132,View Fan,Home Appliances,3309,4685.47,S019
+P0133,Growth Fan,Home Appliances,1576,2616.43,S017
+P0134,Player Monitor,Electronics,2251,3863.2,S001
+P0135,Building Stapler,Office Supplies,981,1413.12,S007
+P0136,Fill Notebook,Office Supplies,3699,5885.57,S004
+P0137,Guy Kettle,Home Appliances,2983,5072.89,S018
+P0138,Move Desk,Furniture,4925,8593.39,S004
+P0139,Financial Iron,Home Appliances,404,623.92,S005
+P0140,Control Monitor,Electronics,2304,3339.17,S010
+P0141,Language Mouse,Electronics,4464,6357.53,S012
+P0142,Those Bookshelf,Furniture,1511,2538.36,S017
+P0143,Scientist Kettle,Home Appliances,2348,3236.77,S014
+P0144,Type Pen,Office Supplies,3280,4037.94,S001
+P0145,Remain Pen,Office Supplies,3685,4689.77,S008
+P0146,Think Kettle,Home Appliances,4454,7576.58,S003
+P0147,Most Mouse,Electronics,4701,7963.52,S006
+P0148,Fill Laptop,Electronics,923,1651.48,S018
+P0149,Product Stapler,Office Supplies,589,996.5,S015
+P0150,Organization Stapler,Office Supplies,1761,2894.22,S009
+P0151,Never Desk,Furniture,4474,5833.41,S008
+P0152,Arm Fan,Home Appliances,4100,5423.97,S015
+P0153,Everything Cabinet,Furniture,3101,4888.16,S015
+P0154,Follow Mouse,Electronics,3674,6214.09,S007
+P0155,Himself Notebook,Office Supplies,2042,3317.77,S016
+P0156,Hotel Mixer,Home Appliances,2975,5218.25,S008
+P0157,Religious Stapler,Office Supplies,2502,4124.18,S015
+P0158,Ever Iron,Home Appliances,4735,5877.29,S008
+P0159,Condition Desk,Furniture,1544,2209.08,S007
+P0160,With Pen,Office Supplies,3189,3958.91,S003
+P0161,Dinner Desk,Furniture,3091,4190.5,S002
+P0162,Spring Laptop,Electronics,2084,3667.63,S016
+P0163,Quality Mixer,Home Appliances,4714,7098.79,S019
+P0164,Church Toaster,Home Appliances,489,778.18,S009
+P0165,Trip Keyboard,Electronics,3015,4660.71,S020
+P0166,Suddenly Keyboard,Electronics,3364,4849.71,S018
+P0167,Purpose Mouse,Electronics,4389,6241.79,S018
+P0168,Economic Stapler,Office Supplies,2166,3198.47,S005
+P0169,Protect Toaster,Home Appliances,639,1022.85,S002
+P0170,Car Folder,Office Supplies,4660,7722.17,S013
+P0171,Seven Toaster,Home Appliances,3309,5909.97,S016
+P0172,Over Monitor,Electronics,1793,2731.57,S009
+P0173,Society Laptop,Electronics,3114,5481.79,S012
+P0174,Note Mixer,Home Appliances,1730,2258.45,S015
+P0175,Or Stapler,Office Supplies,1915,3366.37,S019
+P0176,Whose Notebook,Office Supplies,4040,5061.66,S018
+P0177,That Fan,Home Appliances,893,1131.0,S009
+P0178,Matter Pen,Office Supplies,1590,2025.64,S012
+P0179,Common Bookshelf,Furniture,3218,5457.7,S006
+P0180,Research Chair,Furniture,2754,4300.71,S017
+P0181,Too Kettle,Home Appliances,1368,1972.29,S002
+P0182,Describe Table,Furniture,4186,5697.98,S011
+P0183,Newspaper Folder,Office Supplies,4365,7803.98,S016
+P0184,Military Laptop,Electronics,4583,7022.91,S019
+P0185,Leave Monitor,Electronics,4289,5764.54,S012
+P0186,Fight Monitor,Electronics,3775,6378.37,S012
+P0187,Fire Headphones,Electronics,2191,2910.09,S013
+P0188,Discussion Desk,Furniture,3999,5919.71,S009
+P0189,Which Monitor,Electronics,1921,3084.55,S005
+P0190,Television Pen,Office Supplies,428,552.81,S006
+P0191,Spend Mouse,Electronics,712,1071.62,S013
+P0192,Must Mixer,Home Appliances,4829,6363.82,S017
+P0193,Thank Monitor,Electronics,1457,2325.61,S008
+P0194,Chair Mixer,Home Appliances,549,697.92,S012
+P0195,Deal Stapler,Office Supplies,4164,5223.75,S001
+P0196,Yes Fan,Home Appliances,4841,5851.54,S009
+P0197,With Toaster,Home Appliances,4197,6880.34,S004
+P0198,Notice Paper,Office Supplies,2267,3489.37,S002
+P0199,They Monitor,Electronics,1069,1619.77,S017
+P0200,Inside Monitor,Electronics,2297,2963.42,S019
+P0201,Attention Bookshelf,Furniture,2733,4436.07,S005
+P0202,Police Desk,Furniture,2964,3765.76,S012
+P0203,Everything Notebook,Office Supplies,1487,1971.47,S017
+P0204,Charge Fan,Home Appliances,4475,7009.55,S006
+P0205,Per Stapler,Office Supplies,2565,3699.21,S016
+P0206,Right Stapler,Office Supplies,4584,6293.95,S008
+P0207,Eight Table,Furniture,3474,4566.31,S020
+P0208,Today Cabinet,Furniture,3342,4527.42,S005
+P0209,Significant Headphones,Electronics,4674,8201.78,S006
+P0210,Buy Table,Furniture,339,524.21,S006
+P0211,During Stapler,Office Supplies,1488,1892.96,S004
+P0212,Nation Kettle,Home Appliances,3878,6022.57,S013
+P0213,Tree Monitor,Electronics,1018,1648.87,S001
+P0214,Ready Fan,Home Appliances,1950,3155.93,S007
+P0215,Southern Notebook,Office Supplies,2403,3593.91,S013
+P0216,Budget Laptop,Electronics,923,1384.88,S013
+P0217,Toward Pen,Office Supplies,1330,1745.88,S003
+P0218,Foot Headphones,Electronics,673,1049.87,S011
+P0219,Wrong Iron,Home Appliances,4803,6299.83,S007
+P0220,Through Kettle,Home Appliances,1416,2548.32,S019
+P0221,Weight Toaster,Home Appliances,4468,7868.88,S003
+P0222,Military Headphones,Electronics,4692,5909.54,S010
+P0223,However Table,Furniture,781,1145.57,S001
+P0224,Girl Desk,Furniture,3900,6776.49,S010
+P0225,Walk Iron,Home Appliances,1923,2743.09,S011
+P0226,Enter Kettle,Home Appliances,1047,1793.63,S012
+P0227,Eye Iron,Home Appliances,4393,7366.01,S017
+P0228,Around Chair,Furniture,660,1027.58,S017
+P0229,Air Stapler,Office Supplies,863,1168.24,S018
+P0230,Issue Pen,Office Supplies,2440,4258.86,S015
+P0231,City Folder,Office Supplies,3464,5126.83,S012
+P0232,Nor Stapler,Office Supplies,4112,7288.29,S006
+P0233,Public Kettle,Home Appliances,1668,2733.78,S010
+P0234,Position Table,Furniture,4892,8157.95,S001
+P0235,Country Bookshelf,Furniture,3927,6934.21,S011
+P0236,Small Chair,Furniture,2854,4773.3,S011
+P0237,Organization Mouse,Electronics,1860,2471.35,S005
+P0238,Region Pen,Office Supplies,1453,1865.62,S013
+P0239,Whole Fan,Home Appliances,3133,5409.68,S011
+P0240,State Kettle,Home Appliances,3414,5746.06,S002
+P0241,Live Paper,Office Supplies,327,544.63,S010
+P0242,Scientist Mixer,Home Appliances,1541,1883.18,S001
+P0243,Model Folder,Office Supplies,3235,5215.6,S001
+P0244,Great Mixer,Home Appliances,4960,7710.32,S002
+P0245,Wrong Stapler,Office Supplies,2910,3624.7,S004
+P0246,Reveal Iron,Home Appliances,3676,5140.01,S019
+P0247,Event Pen,Office Supplies,3875,5279.23,S003
+P0248,Can Mouse,Electronics,408,574.87,S002
+P0249,Record Iron,Home Appliances,3321,4787.03,S012
+P0250,Those Monitor,Electronics,2557,4225.5,S001
+P0251,Shoulder Chair,Furniture,3040,5071.85,S005
+P0252,Keep Fan,Home Appliances,881,1157.85,S018
+P0253,Vote Keyboard,Electronics,2000,2677.56,S013
+P0254,Next Mouse,Electronics,2791,3612.2,S017
+P0255,Seat Bookshelf,Furniture,2736,3628.1,S014
+P0256,Soldier Cabinet,Furniture,3165,5224.54,S018
+P0257,Sense Stapler,Office Supplies,3890,5504.56,S013
+P0258,Character Keyboard,Electronics,2432,3901.37,S011
+P0259,Production Paper,Office Supplies,3587,6284.54,S008
+P0260,Everyone Folder,Office Supplies,2829,4882.72,S002
+P0261,Natural Fan,Home Appliances,4458,6524.14,S008
+P0262,Charge Mixer,Home Appliances,2322,2898.65,S012
+P0263,Lose Monitor,Electronics,1023,1655.09,S004
+P0264,Question Keyboard,Electronics,4349,7336.4,S016
+P0265,Hand Bookshelf,Furniture,488,652.17,S003
+P0266,No Fan,Home Appliances,760,1066.98,S010
+P0267,Treat Table,Furniture,4228,6116.32,S016
+P0268,Country Pen,Office Supplies,612,1061.58,S016
+P0269,Long Iron,Home Appliances,1771,2546.29,S014
+P0270,Most Laptop,Electronics,1479,1834.16,S005
+P0271,Ten Kettle,Home Appliances,4056,7103.42,S002
+P0272,Test Mixer,Home Appliances,447,613.78,S003
+P0273,Partner Pen,Office Supplies,4755,7110.42,S013
+P0274,Not Table,Furniture,997,1572.22,S015
+P0275,Certain Keyboard,Electronics,1573,2078.07,S020
+P0276,No Mouse,Electronics,1072,1515.9,S013
+P0277,Store Mouse,Electronics,2639,3860.82,S012
+P0278,Already Chair,Furniture,1659,2416.5,S014
+P0279,Small Desk,Furniture,1632,1988.35,S020
+P0280,There Cabinet,Furniture,3507,5041.0,S003
+P0281,Others Paper,Office Supplies,365,587.56,S012
+P0282,Social Laptop,Electronics,4003,5051.98,S014
+P0283,Story Paper,Office Supplies,4105,5775.51,S018
+P0284,Too Monitor,Electronics,937,1545.17,S012
+P0285,Serious Table,Furniture,2174,2928.95,S015
+P0286,Movie Cabinet,Furniture,764,1013.53,S014
+P0287,Forward Desk,Furniture,1689,2063.0,S003
+P0288,None Laptop,Electronics,1424,2127.32,S003
+P0289,Test Iron,Home Appliances,1436,2127.53,S006
+P0290,Every Mixer,Home Appliances,831,1002.5,S015
+P0291,Subject Table,Furniture,882,1478.73,S001
+P0292,Likely Bookshelf,Furniture,3344,4524.59,S018
+P0293,Relationship Mixer,Home Appliances,2566,4442.87,S017
+P0294,Goal Kettle,Home Appliances,1119,1634.53,S006
+P0295,Property Table,Furniture,4835,7546.04,S014
+P0296,Color Headphones,Electronics,2596,3600.87,S010
+P0297,Cultural Kettle,Home Appliances,4235,7551.92,S006
+P0298,Trouble Fan,Home Appliances,2878,3662.98,S019
+P0299,Allow Notebook,Office Supplies,4884,7932.35,S008
+P0300,Institution Headphones,Electronics,2231,3430.37,S001
+P0301,Man Fan,Home Appliances,2780,4164.11,S004
+P0302,Garden Fan,Home Appliances,4161,5469.2,S004
+P0303,Risk Stapler,Office Supplies,683,1042.58,S015
+P0304,Clear Iron,Home Appliances,2145,3715.59,S018
+P0305,Common Iron,Home Appliances,1775,3104.16,S019
+P0306,Others Table,Furniture,3245,4812.43,S008
+P0307,Identify Mixer,Home Appliances,2174,3283.22,S009
+P0308,Degree Pen,Office Supplies,808,1403.88,S018
+P0309,Fill Monitor,Electronics,3207,5160.79,S015
+P0310,Decade Laptop,Electronics,3866,6270.41,S006
+P0311,Hope Monitor,Electronics,4315,6104.39,S001
+P0312,National Fan,Home Appliances,1380,2019.49,S017
+P0313,Effort Paper,Office Supplies,4784,7993.97,S011
+P0314,Drive Toaster,Home Appliances,4501,7564.55,S019
+P0315,Central Toaster,Home Appliances,1592,1985.75,S016
+P0316,Too Stapler,Office Supplies,3912,5689.72,S008
+P0317,Modern Kettle,Home Appliances,2744,4335.43,S015
+P0318,Film Mixer,Home Appliances,920,1504.81,S011
+P0319,They Mixer,Home Appliances,392,514.95,S018
+P0320,Each Headphones,Electronics,3171,5415.58,S016
+P0321,Movement Pen,Office Supplies,1911,3107.56,S008
+P0322,Card Mixer,Home Appliances,3657,4958.93,S013
+P0323,Last Headphones,Electronics,384,600.27,S017
+P0324,Line Desk,Furniture,3921,6674.61,S001
+P0325,Activity Headphones,Electronics,3234,4595.57,S010
+P0326,Why Toaster,Home Appliances,509,899.89,S009
+P0327,You Bookshelf,Furniture,424,687.62,S010
+P0328,Evidence Kettle,Home Appliances,4773,7978.03,S017
+P0329,Campaign Toaster,Home Appliances,2314,3342.19,S019
+P0330,Two Toaster,Home Appliances,2054,2755.21,S014
+P0331,Two Iron,Home Appliances,3290,5021.47,S020
+P0332,Collection Folder,Office Supplies,3185,5334.36,S012
+P0333,Sea Stapler,Office Supplies,4003,6875.82,S001
+P0334,Effect Fan,Home Appliances,234,391.38,S012
+P0335,Party Keyboard,Electronics,227,360.2,S008
+P0336,What Chair,Furniture,2663,3879.67,S019
+P0337,Poor Notebook,Office Supplies,4000,4850.11,S006
+P0338,Performance Kettle,Home Appliances,3524,5308.34,S016
+P0339,Three Headphones,Electronics,3684,6317.18,S020
+P0340,From Desk,Furniture,362,524.53,S017
+P0341,Fear Bookshelf,Furniture,4851,8180.4,S020
+P0342,My Mouse,Electronics,2629,3796.45,S012
+P0343,Despite Desk,Furniture,4586,6351.33,S013
+P0344,Resource Notebook,Office Supplies,1274,1752.84,S009
+P0345,Film Bookshelf,Furniture,2596,4145.43,S017
+P0346,Guy Mixer,Home Appliances,1986,3347.13,S020
+P0347,Phone Laptop,Electronics,3842,6818.69,S015
+P0348,Section Monitor,Electronics,287,462.26,S003
+P0349,Group Notebook,Office Supplies,3623,6238.16,S013
+P0350,Contain Paper,Office Supplies,3940,4940.4,S006
+P0351,Important Stapler,Office Supplies,465,781.43,S001
+P0352,Foreign Keyboard,Electronics,4914,6115.48,S019
+P0353,Toward Desk,Furniture,2304,3936.29,S014
+P0354,Now Toaster,Home Appliances,902,1218.81,S015
+P0355,Computer Headphones,Electronics,2700,4161.15,S002
+P0356,Beautiful Toaster,Home Appliances,2568,4391.16,S017
+P0357,Thing Bookshelf,Furniture,2485,3157.58,S011
+P0358,Walk Keyboard,Electronics,854,1247.43,S009
+P0359,Meeting Stapler,Office Supplies,3741,5987.37,S014
+P0360,Partner Bookshelf,Furniture,2936,4250.3,S009
+P0361,Buy Monitor,Electronics,4724,6154.04,S007
+P0362,Represent Notebook,Office Supplies,319,515.25,S001
+P0363,One Toaster,Home Appliances,2890,5165.43,S017
+P0364,Fish Paper,Office Supplies,1759,2291.01,S017
+P0365,Up Kettle,Home Appliances,3671,5677.51,S012
+P0366,Return Keyboard,Electronics,1781,2196.04,S009
+P0367,Sign Chair,Furniture,3643,4776.34,S017
+P0368,Old Notebook,Office Supplies,3782,6788.99,S015
+P0369,Should Fan,Home Appliances,4182,7015.89,S014
+P0370,Race Cabinet,Furniture,642,884.93,S011
+P0371,Section Chair,Furniture,4876,8329.93,S011
+P0372,Teacher Toaster,Home Appliances,1294,2089.79,S011
+P0373,None Iron,Home Appliances,1747,2802.28,S012
+P0374,Money Laptop,Electronics,1893,2748.28,S015
+P0375,Improve Toaster,Home Appliances,673,1012.7,S006
+P0376,Six Kettle,Home Appliances,3704,5552.92,S001
+P0377,Away Keyboard,Electronics,3588,4828.88,S001
+P0378,Final Fan,Home Appliances,1164,1442.15,S016
+P0379,Fill Iron,Home Appliances,803,1208.94,S012
+P0380,Ball Desk,Furniture,2966,4927.88,S004
+P0381,No Cabinet,Furniture,4936,8789.02,S012
+P0382,Assume Keyboard,Electronics,1775,2538.77,S006
+P0383,Data Keyboard,Electronics,3475,5893.52,S001
+P0384,Recognize Notebook,Office Supplies,3183,4422.67,S008
+P0385,Drive Cabinet,Furniture,549,947.79,S004
+P0386,Perhaps Iron,Home Appliances,2993,4244.88,S007
+P0387,Good Bookshelf,Furniture,1931,2721.99,S009
+P0388,Choice Pen,Office Supplies,4210,7023.68,S012
+P0389,Account Bookshelf,Furniture,323,471.88,S015
+P0390,Push Bookshelf,Furniture,3509,5009.45,S013
+P0391,Put Cabinet,Furniture,1779,2204.69,S013
+P0392,Air Laptop,Electronics,3058,3947.88,S014
+P0393,Stand Monitor,Electronics,2825,3719.63,S020
+P0394,Century Desk,Furniture,3677,5365.91,S010
+P0395,Type Kettle,Home Appliances,2629,3862.6,S018
+P0396,Open Chair,Furniture,4989,6693.98,S020
+P0397,View Laptop,Electronics,2748,4502.3,S016
+P0398,Fear Headphones,Electronics,803,981.57,S015
+P0399,Gas Mixer,Home Appliances,4743,6886.55,S001
+P0400,Answer Bookshelf,Furniture,3944,6300.26,S015
+P0401,Newspaper Laptop,Electronics,4406,7385.72,S010
+P0402,Foot Mouse,Electronics,1197,2069.87,S017
+P0403,Care Mixer,Home Appliances,2507,3567.67,S013
+P0404,Recent Mixer,Home Appliances,915,1140.14,S010
+P0405,Contain Desk,Furniture,2019,2460.41,S005
+P0406,Eat Folder,Office Supplies,2881,4262.84,S015
+P0407,Top Pen,Office Supplies,1707,2257.62,S016
+P0408,Avoid Paper,Office Supplies,3958,6797.73,S002
+P0409,Positive Kettle,Home Appliances,2446,4295.53,S004
+P0410,Performance Laptop,Electronics,3668,5881.7,S017
+P0411,Ground Paper,Office Supplies,4236,5291.22,S012
+P0412,Consumer Monitor,Electronics,4780,7964.29,S016
+P0413,Ok Headphones,Electronics,997,1598.76,S016
+P0414,Use Mouse,Electronics,2573,4345.76,S020
+P0415,Country Notebook,Office Supplies,1245,2226.51,S019
+P0416,First Headphones,Electronics,2862,3750.97,S020
+P0417,View Headphones,Electronics,4524,5620.53,S016
+P0418,Follow Headphones,Electronics,4511,6719.08,S008
+P0419,Head Pen,Office Supplies,3038,4371.75,S001
+P0420,Treatment Mixer,Home Appliances,1559,2407.64,S005
+P0421,Evidence Paper,Office Supplies,3751,5678.09,S003
+P0422,Inside Laptop,Electronics,4691,8265.22,S012
+P0423,Money Monitor,Electronics,1581,2758.06,S002
+P0424,Me Paper,Office Supplies,1600,2008.5,S002
+P0425,Up Stapler,Office Supplies,1210,1818.24,S020
+P0426,Career Paper,Office Supplies,2333,3185.47,S020
+P0427,Crime Stapler,Office Supplies,3962,5710.09,S017
+P0428,Show Iron,Home Appliances,1447,1990.47,S020
+P0429,Better Desk,Furniture,2246,3440.04,S008
+P0430,Particularly Chair,Furniture,3106,4846.29,S006
+P0431,Forward Keyboard,Electronics,1170,1733.18,S016
+P0432,Point Chair,Furniture,3882,6367.35,S015
+P0433,Community Headphones,Electronics,4037,5380.83,S020
+P0434,Wind Toaster,Home Appliances,4776,6882.07,S008
+P0435,Southern Mixer,Home Appliances,3930,5075.4,S005
+P0436,Strategy Pen,Office Supplies,4354,7601.92,S015
+P0437,Fear Kettle,Home Appliances,2845,4875.87,S015
+P0438,Consumer Cabinet,Furniture,4755,7025.84,S004
+P0439,Run Pen,Office Supplies,493,796.9,S012
+P0440,Garden Paper,Office Supplies,3346,4627.91,S009
+P0441,No Cabinet,Furniture,4096,7231.75,S008
+P0442,Major Cabinet,Furniture,512,870.27,S008
+P0443,Wall Desk,Furniture,3489,5629.36,S011
+P0444,If Monitor,Electronics,3946,4794.14,S011
+P0445,Cost Pen,Office Supplies,3498,5452.74,S020
+P0446,Price Iron,Home Appliances,3820,5312.73,S015
+P0447,Small Table,Furniture,2752,3400.99,S013
+P0448,Treatment Notebook,Office Supplies,2130,3000.67,S011
+P0449,Church Kettle,Home Appliances,870,1523.1,S001
+P0450,View Cabinet,Furniture,647,1134.6,S017
+P0451,Against Paper,Office Supplies,4673,6245.38,S006
+P0452,Garden Bookshelf,Furniture,4367,6122.02,S005
+P0453,According Desk,Furniture,2509,4495.82,S014
+P0454,Fight Mixer,Home Appliances,2020,3168.17,S001
+P0455,Continue Mouse,Electronics,1217,2083.88,S007
+P0456,Future Mouse,Electronics,1947,2813.54,S007
+P0457,Market Kettle,Home Appliances,2525,3760.07,S008
+P0458,Forward Monitor,Electronics,3759,5397.63,S005
+P0459,Off Pen,Office Supplies,3021,4409.28,S017
+P0460,Others Stapler,Office Supplies,1822,2338.74,S019
+P0461,Firm Toaster,Home Appliances,2243,2816.84,S019
+P0462,Individual Mouse,Electronics,2914,4645.74,S016
+P0463,Give Folder,Office Supplies,655,801.75,S006
+P0464,Our Kettle,Home Appliances,3844,5892.94,S012
+P0465,Term Laptop,Electronics,4945,7126.21,S012
+P0466,System Laptop,Electronics,1852,2513.12,S015
+P0467,Move Mouse,Electronics,3426,5662.71,S002
+P0468,Eat Monitor,Electronics,1669,2258.18,S006
+P0469,Wear Paper,Office Supplies,4308,7136.91,S007
+P0470,Crime Folder,Office Supplies,2124,3802.43,S001
+P0471,System Notebook,Office Supplies,2302,3863.15,S002
+P0472,Today Cabinet,Furniture,1233,1952.86,S015
+P0473,Professor Toaster,Home Appliances,4179,6847.59,S015
+P0474,Claim Table,Furniture,903,1104.11,S017
+P0475,Fall Chair,Furniture,4354,5830.8,S014
+P0476,Police Folder,Office Supplies,2820,3509.83,S007
+P0477,Miss Mixer,Home Appliances,1826,2643.45,S008
+P0478,Executive Paper,Office Supplies,356,443.24,S010
+P0479,Receive Iron,Home Appliances,4243,5596.43,S017
+P0480,Interest Paper,Office Supplies,252,392.74,S011
+P0481,Environmental Headphones,Electronics,2546,3897.71,S019
+P0482,So Stapler,Office Supplies,534,801.78,S004
+P0483,On Keyboard,Electronics,537,658.52,S010
+P0484,Current Headphones,Electronics,1024,1798.28,S020
+P0485,Challenge Laptop,Electronics,3154,4584.64,S008
+P0486,Whom Folder,Office Supplies,3552,5300.91,S008
+P0487,Task Desk,Furniture,3152,3855.21,S007
+P0488,Mother Chair,Furniture,3191,4022.44,S003
+P0489,Position Chair,Furniture,4596,7923.79,S001
+P0490,Respond Toaster,Home Appliances,257,409.31,S017
+P0491,Cultural Bookshelf,Furniture,3719,4791.5,S012
+P0492,Act Pen,Office Supplies,4427,7904.52,S015
+P0493,Can Desk,Furniture,3283,5009.52,S007
+P0494,Author Notebook,Office Supplies,517,708.16,S015
+P0495,Respond Monitor,Electronics,3035,4100.22,S017
+P0496,Over Paper,Office Supplies,1612,1960.18,S002
+P0497,Card Paper,Office Supplies,703,1060.71,S001
+P0498,Tell Pen,Office Supplies,1768,2190.77,S014
+P0499,Majority Notebook,Office Supplies,2812,3461.15,S004
+P0500,By Table,Furniture,3324,5858.24,S003
