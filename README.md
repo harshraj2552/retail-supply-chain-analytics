@@ -165,7 +165,7 @@ Dashboard Components:
 - Generated and analyzed more than 12,000 retail transactions.
 - Home Appliances emerged as the highest revenue-generating category.
 - Top-performing products were identified through revenue analysis.
-- Average order value was approximately ₹19.92K.
+- Average order value was approximately ₹19.68K.
 - Monthly sales trends were analyzed to monitor business performance.
 - Category-wise revenue analysis helped identify key business drivers.
 
