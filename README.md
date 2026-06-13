@@ -145,7 +145,7 @@ python/exploratory_analysis.py
 
 ### Dashboard Preview
 
-![Retail Supply Chain Dashboard](images/dashboard.png)
+![Retail Supply Chain Dashboard](image/dashboard.png)
 
 ---
 
@@ -195,7 +195,7 @@ retail-supply-chain-analytics/
 ├── powerbi/
 │   └── Retail_Supply_Chain_Analytics.pbix
 │
-├── images/
+├── image/
 │   └── dashboard.png
 │
 ├── README.md
