@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_location,average_delivery_days,supplier_rating
+S001,Kirby-Young,Ashleyborough,10,3.7
+S002,Lewis Group,Andreamouth,8,3.6
+S003,"Castillo, Grant and Fernandez",Brittanyfort,4,3.4
+S004,Anthony-Smith,West Nicole,9,4.0
+S005,Price-Chen,Randallburgh,9,4.3
+S006,Acevedo LLC,Mariaview,5,4.9
+S007,Phillips Ltd,Christopherchester,11,4.9
+S008,Henderson Ltd,South Marvin,6,4.7
+S009,Hensley LLC,Hartmanview,4,4.4
+S010,"Mcfarland, Camacho and Williams",Hinesburgh,5,4.8
+S011,"Mullen, Huang and Moore",Sarahfort,10,3.3
+S012,"Parker, Smith and Rivera",Palmerberg,6,3.8
+S013,Snyder LLC,Lake William,12,3.6
+S014,Walters Inc,Washingtonfort,11,3.7
+S015,Barrett Inc,Lindseyborough,7,4.7
+S016,Thompson-Adams,Anthonyville,7,3.1
+S017,Carr Ltd,Brownside,6,3.5
+S018,Silva Group,Vasquezmouth,6,3.8
+S019,Walton LLC,Jennaburgh,3,5.0
+S020,Freeman-Watson,East Julieburgh,5,3.7
