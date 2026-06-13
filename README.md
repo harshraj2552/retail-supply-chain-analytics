@@ -2,232 +2,195 @@
 
 ## Project Overview
 
-Retail Supply Chain Analytics is an end-to-end data analytics project developed using Python, SQL, and Power BI. The project simulates a retail supply chain environment by generating transactional data, performing business analysis, and visualizing insights through an interactive dashboard.
+An end-to-end Retail Supply Chain Analytics project built using Python, SQL, and Power BI. The project simulates a retail supply chain environment, generates transactional data, performs business analysis, and visualizes key insights through interactive dashboards.
 
-The objective is to analyze sales performance, product trends, category performance, and overall business metrics to support data-driven decision-making.
+The objective is to analyze sales performance, inventory levels, supplier contribution, warehouse operations, and revenue trends to support data-driven business decisions.
 
 ---
 
 ## Tech Stack
 
-- Python (Pandas, NumPy, Faker, Matplotlib)
+- Python
+- Pandas
+- NumPy
+- Faker
+- Matplotlib
 - MySQL
 - Power BI
 - Git & GitHub
 
 ---
 
-## Project Architecture
-
-```text
-Python
-   ↓
-CSV Dataset Generation
-   ↓
-MySQL Database
-   ↓
-SQL Analysis
-   ↓
-Power BI Dashboard
-```
-
----
-
 ## Dataset Information
 
-The project consists of multiple datasets representing a retail supply chain ecosystem:
+Synthetic retail supply chain dataset generated using Python.
 
-- Orders Dataset
-- Products Dataset
-- Suppliers Dataset
-- Warehouses Dataset
-- Inventory Dataset
-
-### Dataset Size
+### Data Volume
 
 | Dataset | Records |
-|----------|----------|
-| Orders | 50,000 |
-| Products | 500 |
+|----------|----------:|
 | Suppliers | 20 |
+| Products | 500 |
 | Warehouses | 5 |
-| Inventory | 1,000+ |
-
----
-
-## Key Performance Indicators (KPIs)
-
-| KPI | Value |
-|------|--------|
-| Total Revenue | ₹256.08M |
-| Units Sold | 71K |
-| Total Orders | 12.85K |
-| Average Order Value | ₹19.92K |
-
----
-
-## Business Insights
-
-- Home Appliances emerged as the highest revenue-generating category.
-- Electronics was the second-best performing category with strong sales contribution.
-- Picture Folder generated the highest revenue among all products.
-- Other top-performing products included Size Monitor, Spend Toaster, Water Iron, and Either Laptop.
-- Monthly revenue remained relatively stable throughout the analysis period.
-- Revenue ranged between approximately ₹9M and ₹12M for most months.
-- The decline in the final month is due to incomplete monthly transactional data.
-- The average order value of ₹19.92K indicates strong revenue generation per order.
-
----
-
-## SQL Analysis
-
-Business analysis was performed using SQL queries including:
-
-- Total Revenue Analysis
-- Sales Performance Analysis
-- Product Performance Analysis
-- Supplier Analysis
-- Inventory Monitoring
-- Category-wise Revenue Analysis
-- Monthly Revenue Trend Analysis
-
-Files:
-
-```text
-sql/schema.sql
-sql/analysis_queries.sql
-```
-
----
-
-## Python Analysis
-
-Exploratory Data Analysis (EDA) was performed using Python.
-
-### Analysis Performed
-
-- Data Validation
-- Missing Value Analysis
-- Statistical Summary
-- Revenue Distribution Analysis
-- Monthly Revenue Trend Analysis
-- Category-wise Revenue Analysis
-
-Libraries Used:
-
-```python
-pandas
-numpy
-matplotlib
-faker
-```
-
-Files:
-
-```text
-python/generate_dataset.py
-python/exploratory_analysis.py
-```
-
----
-
-## Power BI Dashboard
-
-### Dashboard Features
-
-- Total Revenue KPI
-- Units Sold KPI
-- Total Orders KPI
-- Average Order Value KPI
-- Monthly Revenue Trend
-- Revenue by Category
-- Top Products by Revenue
-
-### Dashboard Preview
-
-![Retail Supply Chain Dashboard](image/dashboard.png)
-
----
-
-## Dashboard Insights
-
-### Revenue by Category
-
-- Home Appliances generated the highest revenue.
-- Electronics followed closely behind.
-- Office Supplies and Furniture also contributed significantly to total sales.
-
-### Top Products by Revenue
-
-Top-performing products include:
-
-1. Picture Folder
-2. Size Monitor
-3. Spend Toaster
-4. Water Iron
-5. Either Laptop
-
-### Monthly Revenue Trend
-
-- Revenue remained consistent across most months.
-- Monthly revenue generally ranged between ₹9M–₹12M.
-- The final month's lower revenue is due to incomplete transactional records.
+| Inventory | 1,000 |
+| Orders | 50,000 |
 
 ---
 
 ## Project Structure
 
-```text
-retail-supply-chain-analytics/
+retail-supply-chain-analytics
+
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+
+├── data
+
+│ ├── raw
+
+│ │ ├── suppliers.csv
+
+│ │ ├── products.csv
+
+│ │ ├── warehouses.csv
+
+│ │ ├── inventory.csv
+
+│ │ └── orders.csv
+
+│ │
+
+│ └── processed
+
+│ └── orders_cleaned.csv
+
 │
-├── python/
-│   ├── generate_dataset.py
-│   └── exploratory_analysis.py
+
+├── python
+
+│ ├── generate_dataset.py
+
+│ └── exploratory_analysis.py
+
 │
-├── sql/
-│   ├── schema.sql
-│   └── analysis_queries.sql
+
+├── sql
+
+│ ├── schema.sql
+
+│ └── analysis_queries.sql
+
 │
-├── powerbi/
-│   └── Retail_Supply_Chain_Analytics.pbix
+
+├── powerbi
+
+│ └── Retail_Supply_Chain_Analytics.pbix
+
 │
-├── image/
-│   └── dashboard.png
+
+├── image
+
+│ └── dashboard.png
+
 │
-├── README.md
-│
-└── .gitignore
-```
+
+└── README.md
+
+---
+
+## Key Business KPIs
+
+| KPI | Value |
+|------|---------:|
+| Total Revenue | ₹983.82M |
+| Total Orders | 50K |
+| Units Sold | 275K |
+| Average Order Value | ₹19.68K |
+
+---
+
+## SQL Analysis Performed
+
+- Overall Business KPIs
+- Top Revenue Generating Products
+- Monthly Sales Trend Analysis
+- Revenue by Category
+- Revenue by Warehouse
+- Top Suppliers by Product Count
+- Inventory Valuation
+- Low Stock Product Identification
+- Supplier Performance Analysis
+
+---
+
+## Python Analysis
+
+Performed Exploratory Data Analysis (EDA) using Pandas and Matplotlib:
+
+- Dataset inspection
+- Missing value analysis
+- Statistical summary
+- Revenue distribution analysis
+- Monthly revenue trend visualization
+- Category-wise revenue analysis
+
+---
+
+## Power BI Dashboard
+
+Dashboard Components:
+
+### Executive KPIs
+
+- Total Revenue
+- Total Orders
+- Units Sold
+- Average Order Value
+
+### Sales Analysis
+
+- Monthly Revenue Trend
+- Revenue by Category
+- Top 10 Products by Revenue
+
+### Business Monitoring
+
+- Supplier Performance
+- Product Performance
+- Inventory Analysis
+
+---
+
+## Key Insights
+
+- Generated and analyzed more than 12,000 retail transactions.
+- Home Appliances emerged as the highest revenue-generating category.
+- Top-performing products were identified through revenue analysis.
+- Average order value was approximately ₹19.92K.
+- Monthly sales trends were analyzed to monitor business performance.
+- Category-wise revenue analysis helped identify key business drivers.
+
+---
+
+## Dashboard Preview
+
+![Dashboard Preview](image/dashboard.png)
 
 ---
 
 ## Future Enhancements
 
-- Real-Time Data Integration
+- Sales Forecasting
+- Demand Prediction
 - Automated ETL Pipeline
 - Inventory Optimization
-- Demand Forecasting
-- Supplier Performance Scoring
 - Advanced Power BI Reporting
 
 ---
 
 ## Author
 
-**Harsh Raj**
+*Harsh Raj*
 
 Aspiring Data Analyst
 
-Skills:
-- SQL
-- Python
-- Power BI
-- Data Analysis
-- Data Visualization
-- Business Intelligence
-
----
+Skills: SQL, Python, Excel, Power BI, Data Analytics, Data Visualization
