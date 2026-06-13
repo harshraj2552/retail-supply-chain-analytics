@@ -1,21 +1,21 @@
 supplier_id,supplier_name,supplier_location,average_delivery_days,supplier_rating
-S001,Rogers Group,Nicholasland,5,4.0
-S002,Fields-Martinez,Armstrongview,12,4.8
-S003,Faulkner LLC,Marcusmouth,12,3.4
-S004,"Pena, Cummings and Choi",East Shane,4,3.5
-S005,Charles-Kennedy,Wadeborough,4,4.4
-S006,Smith-Taylor,New Ryan,3,4.8
-S007,Collins PLC,West Erika,4,4.1
-S008,"Thomas, Garcia and Owen",Lake Cheyenne,7,4.1
-S009,Smith-Smith,Jacquelineview,11,4.0
-S010,Long LLC,Aprilshire,7,4.3
-S011,Jones Ltd,Jonesberg,11,3.3
-S012,"Lambert, Evans and Vasquez",South Jamie,5,4.1
-S013,Mckay LLC,East Derekport,7,3.8
-S014,Herring-Nguyen,Mollyville,6,4.2
-S015,"Williams, Strong and Barnes",New Michaelhaven,2,4.6
-S016,"Lopez, Rogers and Anderson",East Amanda,9,4.7
-S017,Gonzalez-Garza,South Randy,7,3.6
-S018,Mills-Lopez,Johnathanstad,7,4.4
-S019,Vasquez-Burton,Wellsmouth,7,3.7
-S020,"Myers, Farmer and Grant",Marquezborough,11,4.9
+S001,Smith PLC,Randallmouth,12,4.9
+S002,Long Group,South Amy,5,4.0
+S003,Jackson-Gregory,Janetville,7,4.5
+S004,"Meza, Black and Leonard",East Gary,6,3.4
+S005,"Harrell, Rush and Kim",Ortizshire,10,3.0
+S006,"Campbell, Stewart and Allen",Markburgh,2,3.7
+S007,Webster-Hawkins,New Rachelview,11,4.3
+S008,Castillo Inc,Wilkinsbury,4,4.3
+S009,Henry-Gallagher,Chloeport,5,3.0
+S010,"Farmer, Dunlap and Tate",Perezborough,2,3.3
+S011,"Butler, White and Henry",Allenbury,6,4.4
+S012,Jenkins Ltd,Kellyville,11,4.8
+S013,Cole-Williams,Scottborough,12,4.9
+S014,Roth-Martin,North Meghan,3,3.5
+S015,"Mendoza, Ryan and Pacheco",Carlsonport,2,3.4
+S016,"Williams, Brown and Schmitt",Escobarborough,6,4.3
+S017,Dawson and Sons,Lake Bobby,4,4.4
+S018,Walsh PLC,Melissaport,11,4.0
+S019,Miller-Ray,Contrerasport,2,4.8
+S020,White Inc,North Patrickmouth,4,4.7
